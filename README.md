@@ -5,9 +5,13 @@ Sure! Here is your formatted GitHub README:
 I am Abdelah Boutmad, a passionate full-stack programmer with a diverse skill set and a love for creating modern, visually appealing web applications and desktop applications.
 
 🌟 About Me:
+
+
 Name: Abdelah Boutmad
 Role: Full-Stack Programmer
 Interests: Programming, web development, cybersecurity, and hacking
+
+
 💼 Skills:
 Languages:
 PHP
@@ -30,7 +34,13 @@ Kali Linux
 Docker
 Git
 VS Code
+
+
+
 📚 Currently Learning:
+
+
+
 Advanced Concepts in Python:
 Deepening my understanding of object-oriented programming
 Data analysis with Pandas and NumPy
@@ -46,9 +56,19 @@ Integrating RESTful APIs and database management (SQL, NoSQL)
 Desktop Application Development:
 Creating robust desktop applications using Python libraries such as Tkinter and PyQt
 Exploring cross-platform development tools like Electron.js
+
+
+
+
 💞️ Looking to Collaborate On:
 Web development projects involving PHP, JavaScript, Python, and frameworks like Laravel and Node.js
 Cybersecurity and hacking projects using Kali Linux
+
+
 📫 How to Reach Me:
+
+
+WhatsApp: +212684240381
+Email: boutabd6@gmail.com
 WhatsApp: +212684240381
 Email: boutabd6@gmail.com

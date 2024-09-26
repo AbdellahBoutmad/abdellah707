@@ -1,6 +1,4 @@
 
-Sure! Here is your formatted GitHub README:
-
 👋 Hi, I’m Abdelah!
 I am Abdelah Boutmad, a passionate full-stack programmer with a diverse skill set and a love for creating modern, visually appealing web applications and desktop applications.
 
